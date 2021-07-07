@@ -3,3 +3,6 @@
 
 #course files
 assets/*
+
+#DB details
+includes/db.php
